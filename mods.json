@@ -35,6 +35,18 @@
       "author": "NMG",
       "price": "$12/month",
       "description": ""
+    },
+    {
+      "name": "Motocross Dirtbike",
+      "link": "https://media.discordapp.net/attachments/1174061587376656494/1188798699061645402/image.png",
+      "filename": "dirtbike.png",
+      "tag": "dirtbike",
+      "mod_link": "https://www.beamng.com/threads/motocross-motorcycle-paid.87500/",
+      "download": "https://modsfire.com/v15cRXDciWPsx3g",
+      "version": "",
+      "author": "TonyCartoony",
+      "price": "$10",
+      "description": ""
     }
   ]
 }
