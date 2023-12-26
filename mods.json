@@ -59,6 +59,42 @@
       "author": "Royal Renderings",
       "price": "$15/month",
       "description": "kinda shit ngl"
+    },
+    {
+      "name": "Maserati Levante",
+      "link": "https://media.discordapp.net/attachments/1174061587376656494/1188927764900888636/image.png",
+      "filename": "maserati.png",
+      "tag": "maserati",
+      "mod_link": "https://boosty.to/kenemationmods?searchQuery=Maserati%20Levante",
+      "download": "https://modsfire.com/6G9ydmz89PJ90Op",
+      "version": "",
+      "author": "Kenemation",
+      "price": "$8",
+      "description": ""
+    },
+    {
+      "name": "MPV80 Multi Purpose Vessel",
+      "link": "https://media.discordapp.net/attachments/1174061587376656494/1188930210041704458/image.png",
+      "filename": "mpv80.png",
+      "tag": "mpv80",
+      "mod_link": "https://www.beamng.com/threads/mpv80-multi-purpose-vessel-paid.90597/",
+      "download": "https://modsfire.com/GGm5rKD5YoMTSqL",
+      "version": "",
+      "author": "VMFunPhysics",
+      "price": "\u20ac5",
+      "description": "big"
+    },
+    {
+      "name": "2023 Ford F-150 Raptor",
+      "link": "https://media.discordapp.net/attachments/1174061587376656494/1189001429592055848/image.png",
+      "filename": "23rap.png",
+      "tag": "23rap",
+      "mod_link": "https://www.patreon.com/posts/82122021?pr=true",
+      "download": "https://modsfire.com/download/Fu9YhhAt55lHY2X/a8026",
+      "version": "v1.1",
+      "author": "Royal Renderings",
+      "price": "$12/month",
+      "description": "this thing slides"
     }
   ]
 }
