@@ -2,19 +2,19 @@
   "mods": [
     {
       "name": "2018-2022 Mercedes Benz W907",
-      "link": "https://images.boosty.to/image/733308f7-4725-4571-a35a-90ddbb00a06e?change_time=1694107965&croped=1&mh=625&mw=575",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/benz.png",
       "filename": "w9071.png",
       "tag": "w9071",
       "mod_link": "https://boosty.to/bbmods/posts/007cad9d-7570-4151-b42a-88548f8f2ca3?share=post_link",
       "download": "https://modsfire.com/x3xUWyP724L8nBj",
-      "version": "N/A",
+      "version": "",
       "author": "BBM",
       "price": "$10.20",
       "description": ""
     },
     {
       "name": "2001-'07 Civetta Mondello",
-      "link": "https://public-files.gumroad.com/41eu7axuach89vxbv7sn4kiysg9i",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/mondello.png",
       "filename": "mondello.png",
       "tag": "mondelllooo",
       "mod_link": "https://szantosz.gumroad.com/l/mondello",
@@ -26,7 +26,7 @@
     },
     {
       "name": "2022 Jeep Grand Cherokee",
-      "link": "https://media.discordapp.net/attachments/1174061587376656494/1188789878201274429/image.png",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/jeep.png",
       "filename": "chrknmg.png",
       "tag": "chrknmg",
       "mod_link": "https://www.patreon.com/posts/jeep-grand-2022-92637246?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
@@ -38,7 +38,7 @@
     },
     {
       "name": "Motocross Dirtbike",
-      "link": "https://media.discordapp.net/attachments/1174061587376656494/1188798699061645402/image.png",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/dbike.png",
       "filename": "dirtbike.png",
       "tag": "dirtbike",
       "mod_link": "https://www.beamng.com/threads/motocross-motorcycle-paid.87500/",
@@ -50,21 +50,21 @@
     },
     {
       "name": "Can-Am Maverick X3",
-      "link": "https://media.discordapp.net/attachments/1174061587376656494/1188926286228361266/image.png",
-      "filename": "canam.png",
-      "tag": "cannedham",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/cannedham.png",
+      "filename": "cannedham.png",
+      "tag": "cannedhanm",
       "mod_link": "https://www.patreon.com/posts/90065830?pr=true",
       "download": "https://modsfire.com/dnsnWc825X7KND6",
       "version": "",
       "author": "Royal Renderings",
-      "price": "$15/month",
+      "price": "$12/month",
       "description": "kinda shit ngl"
     },
     {
       "name": "Maserati Levante",
-      "link": "https://media.discordapp.net/attachments/1174061587376656494/1188927764900888636/image.png",
-      "filename": "maserati.png",
-      "tag": "maserati",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/levante.png",
+      "filename": "levante.png",
+      "tag": "levante",
       "mod_link": "https://boosty.to/kenemationmods?searchQuery=Maserati%20Levante",
       "download": "https://modsfire.com/6G9ydmz89PJ90Op",
       "version": "",
@@ -74,7 +74,7 @@
     },
     {
       "name": "MPV80 Multi Purpose Vessel",
-      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/MPV80.png",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/mpv80.png",
       "filename": "mpv80s.png",
       "tag": "mpv80s",
       "mod_link": "https://www.beamng.com/threads/mpv80-multi-purpose-vessel-paid.90597/",
@@ -86,7 +86,7 @@
     },
     {
       "name": "2023 Ford F-150 Raptor",
-      "link": "https://media.discordapp.net/attachments/1174061587376656494/1189001429592055848/image.png",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/raptor.png",
       "filename": "23rap.png",
       "tag": "23rap",
       "mod_link": "https://www.patreon.com/posts/82122021?pr=true",
@@ -95,6 +95,90 @@
       "author": "Royal Renderings",
       "price": "$12/month",
       "description": "this thing slides"
+    },
+    {
+      "name": "Ferrari LaFerrari",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/ferrari.png",
+      "filename": "ferrari.png",
+      "tag": "laferrari",
+      "mod_link": "https://www.patreon.com/SpoolingDieselDesigns",
+      "download": "https://modsfire.com/NrRjBGfin4977Xq",
+      "version": "v1.1",
+      "author": "Royal Renderings",
+      "price": "$12/month (no longer purchasable due to it being taken down.)",
+      "description": ""
+    },
+    {
+      "name": "Pagani Utopia",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/utopia.png",
+      "filename": "paganif.png",
+      "tag": "paganif",
+      "mod_link": "https://www.patreon.com/Frix42",
+      "download": "https://modsfire.com/ghD84X0b8WLP9l5",
+      "version": "",
+      "author": "Frix",
+      "price": "$15/month",
+      "description": ""
+    },
+    {
+      "name": "Dahoe Mega Truck",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/bbmega.png",
+      "filename": "bbmega.png",
+      "tag": "bbmega",
+      "mod_link": "https://www.patreon.com/user?u=76849782",
+      "download": "https://drive.google.com/file/d/1TDq2mAsRXTG8hAt7JojNnZLUt5rVaBVA/view",
+      "version": "v2.7",
+      "author": "TheBGamerBB",
+      "price": "$10/month",
+      "description": ""
+    },
+    {
+      "name": "McLaren 720S",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/McLaren%20720S.png",
+      "filename": "720S.png",
+      "tag": "McLaren720S",
+      "mod_link": "https://www.patreon.com/posts/720s-beamng-mod-95299128",
+      "download": "https://modsfire.com/2QdxMM8u0fn67E1",
+      "version": "",
+      "author": "Royal Renderings",
+      "price": "$12/month",
+      "description": "DOESNT HAVE RAIN FX THIS COMING IN LATER UPDATE - Dewster"
+    },
+    {
+      "name": "Honda Accord (18'-22' Body Style)",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/accord.png",
+      "filename": "accord.png",
+      "tag": "accord",
+      "mod_link": "https://boosty.to/kenemationmods",
+      "download": "https://modsfire.com/NmE5x2PNf9KtR34",
+      "version": "",
+      "author": "Kenemation",
+      "price": "$17.4/month",
+      "description": ""
+    },
+    {
+      "name": "Kardu Point Research Center",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/kardu.png",
+      "filename": "kardu.png",
+      "tag": "kardu",
+      "mod_link": "https://daddelzeit.gumroad.com/l/kardu-point-research-center",
+      "download": "https://modsfire.com/lLX8G7CVcNBy4Pv",
+      "version": "v1.1",
+      "author": "DaddelZeit",
+      "price": "$4.64",
+      "description": ""
+    },
+    {
+      "name": "Mercedes-Benz S-Class (W220)",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/w220.png",
+      "filename": "w220.png",
+      "tag": "w220",
+      "mod_link": "https://boosty.to/kenemationmods",
+      "download": "https://modsfire.com/vvji4qB89sUw205",
+      "version": "",
+      "author": "Kenemation",
+      "price": "$8.10",
+      "description": ""
     }
   ]
 }
