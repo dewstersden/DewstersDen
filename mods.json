@@ -2,7 +2,7 @@
   "mods": [
     {
       "name": "2018-2022 Mercedes Benz W907",
-      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/benz.png",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/w9071.png",
       "filename": "w9071.png",
       "tag": "w9071",
       "mod_link": "https://boosty.to/bbmods/posts/007cad9d-7570-4151-b42a-88548f8f2ca3?share=post_link",
@@ -26,7 +26,7 @@
     },
     {
       "name": "2022 Jeep Grand Cherokee",
-      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/jeep.png",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/chrknmg.png",
       "filename": "chrknmg.png",
       "tag": "chrknmg",
       "mod_link": "https://www.patreon.com/posts/jeep-grand-2022-92637246?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
@@ -110,7 +110,7 @@
     },
     {
       "name": "Pagani Utopia",
-      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/utopia.png",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/paganif.png",
       "filename": "paganif.png",
       "tag": "paganif",
       "mod_link": "https://www.patreon.com/Frix42",
@@ -179,6 +179,30 @@
       "author": "Kenemation",
       "price": "$8.10",
       "description": ""
+    },
+    {
+      "name": "2021 RZR ProR",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/rzr.png",
+      "filename": "rzr.png",
+      "tag": "rzr",
+      "mod_link": "https://www.patreon.com/posts/2021-rzr-pror-92098894",
+      "download": "https://modsfire.com/J7VA3i3XfFtz0MV",
+      "version": "v1.0",
+      "author": "Royal Renderings",
+      "price": "$12/month",
+      "description": ""
+    },
+    {
+      "name": "The Crash Hard Dummy 2.0",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/dummy.png",
+      "filename": "dummy.png",
+      "tag": "dummy",
+      "mod_link": "https://crashhard.gumroad.com/l/TheCrashHardDummy20",
+      "download": "https://modsfire.com/ViRF8FAYjELjLOs",
+      "version": "v2.0",
+      "author": "Crash Hard",
+      "price": "$4",
+      "description": "Nice crash dummy to replicate realistic crashes."
     }
   ]
 }
