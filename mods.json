@@ -203,6 +203,18 @@
       "author": "Crash Hard",
       "price": "$4",
       "description": "Nice crash dummy to replicate realistic crashes."
+    },
+    {
+      "name": "Jerr Dan 50/60",
+      "link": "https://raw.githubusercontent.com/dewstersden/DewstersDen/main/images/jerrdan_alfa1.png",
+      "filename": "jerrdan_alfa1.png",
+      "tag": "jerrdan_alfa1",
+      "mod_link": "https://ko-fi.com/s/25f547e4c4",
+      "download": "https://modsfire.com/noWTN7xrQi9FT7P",
+      "version": "1.1",
+      "author": "Fun Physics",
+      "price": "$6.58",
+      "description": "This is a early release (alfa) of the Jerr Dan 50/60 mod for BeamNG.drive."
     }
   ]
 }
