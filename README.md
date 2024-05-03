@@ -13,5 +13,5 @@ Welcome to the Beam.NG Dewsters Den application! This Python-based tool allows y
 
 - Windows operating system.
 
-# Note on False Positives
+## Note on False Positives
 Some antivirus software might flag the application as potentially harmful due to the way it's packaged. However, false positives are common, especially with compiled executables. Rest assured, this application is safe to use and is not harmful to your system. If you encounter any warnings from your antivirus software, you can safely ignore them or whitelist the application.
