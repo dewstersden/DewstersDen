@@ -1,4 +1,4 @@
-# Beam.NG Mods Finder
+# Dewsters Den for Beam.NG
 
 Welcome to the Beam.NG Dewsters Den application! This Python-based tool allows you to effortlessly discover and download mods for the popular vehicle simulation game, Beam.NG.
 
