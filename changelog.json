@@ -1,29 +1,28 @@
 [
   {
-    "version": "1.2.0",
-    "title": "UI Revamp",
+    "version": "1.1.4.4",
+    "title": "Load time and mod link updates.",
+    "date": "2025‑10‑29",
     "changes": [
-      "Added dark/light mode toggle",
-      "Sidebar can now collapse",
-      "Cleaned up UI and added Discord footer link"
+      "Significantly reduced both first time load ins as well as all load times.",
+      "ALL broken links have been addressed (meaning a few mods have been deleted for the time being.)"
     ]
   },
   {
-    "version": "1.1.0",
-    "title": "Stability Improvements",
+    "version": "1.1.4.3",
+    "title": "UI Changes",
+    "date": "2025‑03‑04",
     "changes": [
-      "Fixed layout bugs on smaller screens",
-      "Optimized sidebar animations",
-      "Added Installed Mods tab"
+      "Added support for mod manager to certain users only.",
+      "Small UI changes."
     ]
   },
   {
-    "version": "1.0.0",
-    "title": "Initial Release",
+    "version": "1.1.4.2",
+    "title": "Hotfix.",
+    "date": "2025‑02‑27",
     "changes": [
-      "Base mod manager UI created",
-      "Added basic navigation and theming",
-      "Placeholder for mod integration with Python backend"
+      "Hotfix for error."
     ]
   }
 ]
