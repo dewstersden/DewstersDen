@@ -2,7 +2,7 @@
   {
     "version": "2.0",
     "title": "Fully rewritten from scratch.",
-    "date": "2024‑02‑27",
+    "date": "2025‑10‑30",
     "changes": [
       "Written from scratch modern UI using HTML, ditching the old DearPyGUI library previously used.",
       "Backend written in Python using Eel.",
@@ -31,7 +31,7 @@
   {
     "version": "1.1.4.2",
     "title": "Hotfix.",
-    "date": "2025‑10‑30",
+    "date": "2024‑02‑27",
     "changes": [
       "Hotfix for error."
     ]
