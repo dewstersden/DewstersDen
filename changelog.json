@@ -24,5 +24,16 @@
     "changes": [
       "Hotfix for error."
     ]
+  },
+  {
+    "version": "2.0",
+    "title": "Fully rewritten from scratch.",
+    "date": "2024‑02‑27",
+    "changes": [
+      "Written from scratch modern UI using HTML, ditching the old DearPyGUI library previously used.",
+      "Backend written in Python using Eel.",
+      "Download mods directly into your latest Beam.NG mods folder automatically.",
+      "Added a in app changelog"
+    ]
   }
 ]
