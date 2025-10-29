@@ -2,7 +2,7 @@
   {
     "version": "1.1.4.4",
     "title": "Load time and mod link updates.",
-    "date": "2025‑10‑29",
+    "date": "2024‑08‑26",
     "changes": [
       "Significantly reduced both first time load ins as well as all load times.",
       "ALL broken links have been addressed (meaning a few mods have been deleted for the time being.)"
@@ -11,7 +11,7 @@
   {
     "version": "1.1.4.3",
     "title": "UI Changes",
-    "date": "2025‑03‑04",
+    "date": "2024‑03‑04",
     "changes": [
       "Added support for mod manager to certain users only.",
       "Small UI changes."
@@ -20,7 +20,7 @@
   {
     "version": "1.1.4.2",
     "title": "Hotfix.",
-    "date": "2025‑02‑27",
+    "date": "2024‑02‑27",
     "changes": [
       "Hotfix for error."
     ]
