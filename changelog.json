@@ -1,0 +1,29 @@
+[
+  {
+    "version": "1.2.0",
+    "title": "UI Revamp",
+    "changes": [
+      "Added dark/light mode toggle",
+      "Sidebar can now collapse",
+      "Cleaned up UI and added Discord footer link"
+    ]
+  },
+  {
+    "version": "1.1.0",
+    "title": "Stability Improvements",
+    "changes": [
+      "Fixed layout bugs on smaller screens",
+      "Optimized sidebar animations",
+      "Added Installed Mods tab"
+    ]
+  },
+  {
+    "version": "1.0.0",
+    "title": "Initial Release",
+    "changes": [
+      "Base mod manager UI created",
+      "Added basic navigation and theming",
+      "Placeholder for mod integration with Python backend"
+    ]
+  }
+]
